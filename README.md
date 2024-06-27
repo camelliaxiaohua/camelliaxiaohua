@@ -8,7 +8,7 @@
 
 ## 我的统计数据
 
-[在此插入你的 GitHub 统计数据图片，可以使用像 shields.io 这样的服务生成]
+![GitHub followers](https://img.shields.io/github/followers/camelliaxiaohua?label=Followers&style=social)
 <!--
 **camelliaxiaohua/camelliaxiaohua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
