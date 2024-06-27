@@ -8,7 +8,7 @@
 
 ## 我的统计数据
 
-![GitHub followers](https://img.shields.io/github/followers/camelliaxiaohua?label=Followers&style=social)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camelliaxiaohua)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **camelliaxiaohua/camelliaxiaohua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
