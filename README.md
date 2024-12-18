@@ -39,7 +39,7 @@
 ### 其他个人标签
 
 - ⚡ Fun fact: 我喜欢挑战自我，常常通过编程来解决生活中的小问题。
-- 😄 Pronouns: 他/她/他们（根据需要进行更改）
+- 😄 Pronouns: 他/她/他们
 
 <!--
 **camelliaxiaohua/camelliaxiaohua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
