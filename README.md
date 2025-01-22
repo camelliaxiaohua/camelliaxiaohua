@@ -2,6 +2,7 @@
 
 ### Hi there 👋  
 # Camellia.xiaohua
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E8%8A%B1%E5%8F%8B%E9%87%8D%E5%BC%80%E6%97%A5%EF%BC%8C%E4%BA%BA%E6%97%A0%E5%86%8D%E5%B0%91%E5%B9%B4%E3%80%82;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
 ## 欢迎！👋
 
