@@ -28,7 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camelliaxiaohua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camelliaxiaohua&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=camelliaxiaohua&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=camelliaxiaohua&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=camelliaxiaohua&theme=radical)](https://git.io/streak-stats)
 
